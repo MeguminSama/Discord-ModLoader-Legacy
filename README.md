@@ -8,6 +8,10 @@ You can customise the user data directory for each profile, isolating each insta
 
 ![](assets/DiscordModLoader_oe47GnVQI7.png)
 
+# Where do I download it?
+
+You should probably download from releases, but you can also clone & build it yourself if you know how.
+
 # How to
 
 When creating a new profile, you're presented with a few options. Make sure to read all the documentation below if you get lost. It seems complicated at first, but it's all fairly easy to configure.
