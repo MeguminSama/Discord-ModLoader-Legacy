@@ -48,6 +48,14 @@ This will be updated as things get found
 
 1. Don't try using this with an already-modded client. This is designed to be used with a vanilla client, with the mods getting injected by ModHook.
 
+# How do I get a profile running on system startup?
+
+1. Stop Discord from starting up with your system in Discord settings.
+2. Create a shortcut using the Discord ModLoader GUI.
+3. Press Win+R, and type in `shell:startup` and hit enter. Explorer will open in a folder.
+4. Copy and paste your newly created shortcut into the folder.
+5. The mod will now load on system startup. 
+
 # To Do
 
 - [ ] Re-enable the `--mullti-instance` Discord flag after some testing
