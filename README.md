@@ -40,6 +40,8 @@ As an example, if your mod entrypoint is `C:\Users\megu\Vencord\dist\patcher.js`
 
 # To Do
 
+- [ ] Clean out root files - there are too many
+- [ ] Clean out dependencies - why did I use electron 😿
 - [ ] Automatic mod downloading (this is already supported in libmodhook, just needs adding to the GUI)
 - [ ] Make an installer for Discord ModLoader
 - [ ] Linux Support (looking for sponsor)
