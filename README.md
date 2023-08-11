@@ -42,6 +42,12 @@ Terribly named, CaSe sensitive, and usually not necessary, this is the string th
 
 As an example, if your mod entrypoint is `C:\Users\megu\Vencord\dist\patcher.js`, you would probably want this value to be at minimum, `Vencord\dist\patcher.js`.
 
+# Troubleshooting
+
+This will be updated as things get found
+
+1. Don't try using this with an already-modded client. This is designed to be used with a vanilla client, with the mods getting injected by ModHook.
+
 # To Do
 
 - [ ] Clean out root files - there are too many
