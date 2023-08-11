@@ -50,6 +50,7 @@ This will be updated as things get found
 
 # To Do
 
+- [ ] Re-enable the `--mullti-instance` Discord flag after some testing
 - [ ] Clean out root files - there are too many
 - [ ] Clean out dependencies - why did I use electron 😿
 - [ ] Automatic mod downloading (this is already supported in libmodhook, just needs adding to the GUI)
